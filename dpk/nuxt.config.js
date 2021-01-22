@@ -1,10 +1,7 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'test-dyn',
+    title: 'dpk',
     htmlAttrs: {
       lang: 'en'
     },

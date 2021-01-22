@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "xdn": "xdn",
+    "xdn:dev": "xdn dev",
+    "xdn:build": "xdn build",
+    "xdn:deploy": "xdn deploy",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "name": "dpk",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nuxt/core": "^2.14.12"
+  },
+  "devDependencies": {
+    "@xdn/cli": "^2.40.2",
+    "@xdn/core": "^2.40.2",
+    "@xdn/devtools": "^2.40.2",
+    "@xdn/nuxt": "^2.40.2",
+    "@xdn/prefetch": "^2.40.2",
+    "@xdn/vue": "^2.40.2",
+    "core-js": "^3.8.2",
+    "nuxt": "^2.14.12"
+  }
+}

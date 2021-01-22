@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        test-dyn
+        dpk
       </h1>
       <div class="links">
         <a

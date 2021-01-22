@@ -1,5 +1,7 @@
 <template>
-  <div>{{this.$route.params.dunp}}</div>
+  <div>
+    {{this.$route.params.param}}
+  </div>
 </template>
 
 <script>
